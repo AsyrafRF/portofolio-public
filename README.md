@@ -100,7 +100,7 @@ Di proyek ini saya sebagai Team Member beranggotakan 6 orang dengan role Product
 - https://polibatam.id/pcm-web
 
 ## Proyek 2: SI PCM Batam - Team Leader/Frontend Developer
-Di Proyek ini saya sebagai Team Leader beranggotakan 4 orang juga memegang role frontend developer pada pengembangan Aplikasi Mobile Sistem Informasi Pimpinan Cabang Muhammadiyah Kota Batam yaitu Content Management System Berbasis Mobile Untuk Sistem Informasi Organisasi di Lingkungan Persyarikatan Muhammadiyah Kota Batam selama 1 semester dengan tech stack Flutter App yang menggunakan API PCM web Laravel & MySQL yang mana saya juga membantu dalam membuat Endpoint API Laravel ke frontend Flutter.
+Di Proyek ini saya sebagai Team Leader beranggotakan 5 orang juga memegang role frontend developer pada pengembangan Aplikasi Mobile Sistem Informasi Pimpinan Cabang Muhammadiyah Kota Batam yaitu Content Management System Berbasis Mobile Untuk Sistem Informasi Organisasi di Lingkungan Persyarikatan Muhammadiyah Kota Batam selama 1 semester dengan tech stack Flutter App yang menggunakan API PCM web Laravel & MySQL yang mana saya juga membantu dalam membuat Endpoint API Laravel ke frontend Flutter.
 ### Portofolio:
 - https://polibatam.id/si-pcm-batam
 
