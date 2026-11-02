@@ -14,7 +14,7 @@ My responsibilities included creating comprehensive **test plans** and **test ca
 
 ## Project 2: SI PCM Batam – Team Leader & Frontend Developer (2024)
 
-In this project, I served as both the **Team Leader** and **Frontend Developer** in a team of four. We developed **SI PCM Batam**, a mobile-based Content Management System designed to support organizational information management within **Muhammadiyah Batam City**. The project was completed over one academic semester using **Flutter** for the mobile application, integrated with a **Laravel** and **MySQL** backend through RESTful APIs.
+In this project, I served as both the **Team Leader** and **Frontend Developer** in a team of five. We developed **SI PCM Batam**, a mobile-based Content Management System designed to support organizational information management within **Muhammadiyah Batam City**. The project was completed over one academic semester using **Flutter** for the mobile application, integrated with a **Laravel** and **MySQL** backend through RESTful APIs.
 
 In addition to leading the team, I developed the Flutter frontend and contributed to building Laravel API endpoints to support seamless communication between the backend and mobile application.
 
