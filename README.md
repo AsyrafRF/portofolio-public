@@ -1,4 +1,4 @@
-# Portfolio (EN)
+# Academic Portfolio (EN)
 
 ## Project 1: Official PCM Batam Kota Website (CMS) – QA Engineer (2023-2024)
 
@@ -92,7 +92,7 @@ My responsibilities included designing the system architecture, implementing **D
 
 -
 
-# Portofolio (ID)
+# Academic Portofolio (ID)
 
 ## Proyek 1: Official Website PCM Batam Kota Berbasis CMS - QA Engineer
 Di proyek ini saya sebagai Team Member beranggotakan 6 orang dengan role Product Quality Assurance dan Software Test Engineer pada pengembangan Website Official Pimpinan Cabang Muhammadiyah Batam Kota dengan basis Content Management System yang komprehensif selama 1 semester dengan tech stack Laravel & MySQL dan telah melakukan quality evaluation dengan baik dengan Menyusun test plan dan test case. Melakukan functional testing, Menemukan dan melaporkan bug, Memverifikasi bahwa bug telah diperbaiki, Memastikan software memenuhi standar kualitas sebelum dirilis.
