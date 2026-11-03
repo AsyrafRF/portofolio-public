@@ -115,6 +115,6 @@ Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan role backend
 - https://polibatam.id/budgetbuddy2025
 
 ## Proyek 5: MoneyMate - DevOps/Tech Architect
-Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan Tim yang sama saat Proyek BudgetBuddy berjalan. Role saat ini sebagai DevOps serta Tech Architect pada pengembangan MoneyMate yang merupakan lanjutan Komersialisasi di Bawah MoneyMate ID dari Project BudgetBuddy yang saat ini mencapai 83 Pengguna Terdaftar. Lanjutan pengembangan 1 semester dari proyek sebelumnya dengan (Software Release Life Cycle) melalui Kanban menggunakan Trello serta memakai Tech Stack yang sama dengan BudgetBuddy, namun ada penambahan penggunaan Livewire serta Optimasi Performa dan Deployment Server menggunakan Docker dan CI/CD juga secure DNS Management.
+Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan Tim yang sama saat Proyek BudgetBuddy berjalan. Role saat ini sebagai DevOps serta Tech Architect pada pengembangan MoneyMate yang merupakan lanjutan Komersialisasi di Bawah MoneyMate ID dari Project BudgetBuddy yang saat ini mencapai 83 Pengguna Terdaftar. Lanjutan pengembangan 1 semester dari proyek sebelumnya dengan SRLC (Software Release Life Cycle) melalui Kanban menggunakan Trello serta memakai Tech Stack yang sama dengan BudgetBuddy, namun ada penambahan penggunaan Livewire serta Optimasi Performa dan Deployment Server menggunakan Docker dan CI/CD juga secure DNS Management.
 ### Portofolio:
 - https://moneymate.id
