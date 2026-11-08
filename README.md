@@ -5,7 +5,17 @@ Website: [s.id/asrafa](https://s.id/asrafa)
 
 # Academic Portfolio (EN)
 
-## Project 1: Official PCM Batam Kota Website (CMS) – QA Engineer (2023-2024)
+## Project 1: LaporMas! 0.1 – UI/UX Designer (2023)
+
+In this project, I worked as the **UI/UX Designer** in a six-member team from **TRPL1-005, Politeknik Negeri Batam**. We developed **LaporMas! 0.1**, a web-based community reporting service designed for a residential neighborhood. The platform was intended to help residents submit reports about incidents and neighborhood issues and follow up on their handling by the relevant parties.
+
+My responsibility was to design the user experience and interface for the platform. This included shaping the user flows and interface needs for its four user roles: **Residents**, **Security Officers**, **Administrators**, and the **Neighborhood Head (Ketua RT)**. The designed workflows covered account access, report submission, report verification, handling updates, notifications, and report recapitalization.
+
+**Project Team:** TRPL1-005, Politeknik Negeri Batam (six members)
+
+---
+
+## Project 2: Official PCM Batam Kota Website (CMS) – QA Engineer (2023-2024)
 
 In this project, I worked as a **Team Member** in a team of six, serving as a **Product Quality Assurance** and **Software Test Engineer** during the development of the official website for **Pimpinan Cabang Muhammadiyah (PCM) Batam Kota**. The project was developed over one academic semester using **Laravel** and **MySQL** as the primary technology stack.
 
@@ -17,7 +27,7 @@ My responsibilities included creating comprehensive **test plans** and **test ca
 
 ---
 
-## Project 2: SI PCM Batam – Team Leader & Frontend Developer (2024)
+## Project 3: SI PCM Batam – Team Leader & Frontend Developer (2024)
 
 In this project, I served as both the **Team Leader** and **Frontend Developer** in a team of five. We developed **SI PCM Batam**, a mobile-based Content Management System designed to support organizational information management within **Muhammadiyah Batam City**. The project was completed over one academic semester using **Flutter** for the mobile application, integrated with a **Laravel** and **MySQL** backend through RESTful APIs.
 
@@ -29,7 +39,7 @@ In addition to leading the team, I developed the Flutter frontend and contribute
 
 ---
 
-## Project 3: RambuID – Team Leader & Backend Developer (2025)
+## Project 4: RambuID – Team Leader & Backend Developer (2025)
 
 In this project, I worked as the **Team Leader** and **Backend Developer** in a team of six. We developed **RambuID**, an AI-powered smart mobile application integrated with IoT technology to help drivers and the public recognize and understand Indonesian traffic signs.
 
@@ -54,7 +64,7 @@ The project was completed over one academic semester.
 
 ---
 
-## Project 4: BudgetBuddy – Backend Developer (2025)
+## Project 5: BudgetBuddy – Backend Developer (2025)
 
 In this project, I worked as a **Backend Developer** in a team of five to develop **BudgetBuddy**, an interactive web platform for personal budget management and financial analysis.
 
@@ -68,7 +78,7 @@ Using **Laravel 12**, **MySQL**, **Bootstrap**, and **JavaScript**, I was respon
 
 ---
 
-## Project 5: MoneyMate – DevOps Engineer & Technical Architect (2025-2026)
+## Project 6: MoneyMate – DevOps Engineer & Technical Architect (2025-2026)
 
 In this project, I served as a **DevOps Engineer** and **Technical Architect** within the same five-member team that developed BudgetBuddy. **MoneyMate** is the commercial continuation of BudgetBuddy under the **MoneyMate ID** brand and currently serves **more than 80 registered users**.
 
@@ -99,27 +109,34 @@ My responsibilities included designing the system architecture, implementing **D
 
 # Academic Portofolio (ID)
 
-## Proyek 1: Website Official PCM Batam Kota Berbasis CMS - QA Engineer
+## Proyek 1: LaporMas! 0.1 - UI/UX Designer (2023)
+Pada proyek ini saya bertanggung jawab sebagai **UI/UX Designer** dalam tim beranggotakan enam orang dari **TRPL1-005, Politeknik Negeri Batam**. Kami mengembangkan **LaporMas! 0.1**, sebuah website pelayanan laporan masyarakat untuk lingkungan komplek perumahan. Platform ini dirancang untuk membantu warga menyampaikan laporan terkait kejadian maupun permasalahan lingkungan, serta memantau tindak lanjut dari pihak terkait.
+
+Tanggung jawab saya berfokus pada perancangan pengalaman pengguna (UX) dan antarmuka pengguna (UI). Saya merancang alur penggunaan serta kebutuhan antarmuka untuk empat jenis pengguna, yaitu **Masyarakat**, **Petugas Keamanan**, **Admin**, dan **Ketua RT**. Alur yang dirancang mencakup akses akun, pengiriman laporan, verifikasi laporan, pembaruan penanganan, notifikasi, dan rekapitulasi laporan.
+
+**Tim Proyek:** TRPL1-005, Politeknik Negeri Batam (6 orang)
+
+## Proyek 2: Website Official PCM Batam Kota Berbasis CMS - QA Engineer
 Di proyek ini saya sebagai Anggota Tim beranggotakan 6 orang dengan role Product Quality Assurance dan Software Test Engineer pada pengembangan Website Official Pimpinan Cabang Muhammadiyah Batam Kota dengan basis Content Management System yang komprehensif selama 1 semester dengan tech stack Laravel & MySQL dan telah melakukan quality evaluation dengan baik dengan Menyusun test plan dan test case. Melakukan functional testing, Menemukan dan melaporkan bug, Memverifikasi bahwa bug telah diperbaiki, Memastikan software memenuhi standar kualitas sebelum dirilis.
 ### Portofolio:
 - https://polibatam.id/pcm-web
 
-## Proyek 2: SI PCM Batam - Team Leader/Frontend Developer
+## Proyek 3: SI PCM Batam - Team Leader/Frontend Developer
 Di Proyek ini saya sebagai Ketua Tim beranggotakan 5 orang juga memegang role frontend developer pada pengembangan Aplikasi Mobile Sistem Informasi Pimpinan Cabang Muhammadiyah Kota Batam yaitu Content Management System Berbasis Mobile Untuk Sistem Informasi Organisasi di Lingkungan Persyarikatan Muhammadiyah Kota Batam selama 1 semester dengan tech stack Flutter App yang menggunakan API PCM web Laravel & MySQL yang mana saya juga membantu dalam membuat Endpoint API Laravel ke frontend Flutter.
 ### Portofolio:
 - https://polibatam.id/si-pcm-batam
 
-## Proyek 3: RambuID - Team Leader/Backend Developer
+## Proyek 4: RambuID - Team Leader/Backend Developer
 Di Proyek ini saya sebagai Ketua Tim beranggotakan 6 Orang juga memegang role backend developer pada pengembangan Aplikasi Mobile Pintar berbasis IOT yang dirancang untuk membantu pengendara dan masyarakat mengenali dan memahami berbagai jenis rambu jalan raya yang ada di Indonesia. Dengan menggunakan teknologi pengolahan citra dan kecerdasan buatan (AI), aplikasi ini mampu mendeteksi dan mengidentifikasi rambu-rambu lalu lintas secara real-time dari gambar, video, atau live camera. Dikembangkan Selama 1 Semester dengan tech architecture: IoT Device (Raspberry Pi 4 + Ultralytics YOLOv5 & OpenCV + camera & Text-to-Speech (TTS), GPS, Accelerator sensors) -> Mobile monitoring App (Mobile Flutter & WebSocket FastAPI). Inovasi ini berupa sistem pendeteksi rambu lalu lintas otomatis berbasis teknologi Text-to-Speech (TTS) yang memberikan informasi melalui suara secara otomatis menggunakan perangkat IoT. Sistem ini juga dapat dipantau melalui perangkat mobile sehingga pengemudi dapat tetap fokus berkendara tanpa harus mengalihkan pandangan dari jalan.
 ### Portofolio:
 - https://polibatam.id/rambuid
 
-## Proyek 4: BudgetBuddy - Backend Developer
+## Proyek 5: BudgetBuddy - Backend Developer
 Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan role backend developer pada pengembangan BudgetBuddy: Platform Web Interaktif untuk Manajemen Anggaran Harian dan Analisis Keuangan yang dirancang untuk membantu pengguna mengelola anggaran harian secara efektif melalui pencatatan pemasukan dan pengeluaran, pengelompokan kategori, serta penyajian analisis keuangan dalam bentuk grafik dan laporan visual. Dengan antarmuka yang sederhana namun informatif, aplikasi ini memudahkan pengguna memantau kondisi keuangan secara real-time, mengontrol pengeluaran, dan merencanakan anggaran dengan lebih terarah untuk mencapai tujuan finansial. Dikembangkan selama 1 semester dengan SDLC berupa Agile Scrum Development. Project management menggunakan Notion serta tech stack memakai Laravel 12, MySQL, Bootstrap, JavaScript. Membangun Backend Laravel dengan robust logic fintech dengan realtime data trigger.
 ### Portofolio:
 - https://polibatam.id/budgetbuddy2025
 
-## Proyek 5: MoneyMate - DevOps/Tech Architect
+## Proyek 6: MoneyMate - DevOps/Tech Architect
 Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan Tim yang sama saat Proyek BudgetBuddy berjalan. Role saat ini sebagai DevOps serta Tech Architect pada pengembangan MoneyMate yang merupakan lanjutan Komersialisasi di Bawah MoneyMate ID dari Project BudgetBuddy yang saat ini mencapai 83 Pengguna Terdaftar. Lanjutan pengembangan 1 semester dari proyek sebelumnya dengan SRLC (Software Release Life Cycle) melalui Kanban menggunakan Trello serta memakai Tech Stack yang sama dengan BudgetBuddy, namun ada penambahan penggunaan Livewire serta Optimasi Performa dan Deployment Server menggunakan Docker beserta CI/CD juga secure DNS Management.
 ### Portofolio:
 - https://moneymate.id
