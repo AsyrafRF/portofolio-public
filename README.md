@@ -1,3 +1,8 @@
+# Profile Account
+Email: asrafrf@gmail.com\
+LinkedIn: [linkedin.com/in/asyraf-rais-fadhil](https://www.linkedin.com/in/asyraf-rais-fadhil/)\
+Website: [s.id/asrafa](https://s.id/asrafa)
+
 # Academic Portfolio (EN)
 
 ## Project 1: Official PCM Batam Kota Website (CMS) – QA Engineer (2023-2024)
