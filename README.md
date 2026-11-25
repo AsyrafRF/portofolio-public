@@ -101,7 +101,11 @@ My responsibilities included designing the system architecture, implementing **D
 
 * [https://moneymate.id](https://moneymate.id)
 
-### On Going
+---
+
+## On Going
+
+-
 
 ---
 
@@ -143,4 +147,4 @@ Di Proyek ini saya sebagai Anggota Tim beranggotakan 5 orang dengan Tim yang sam
 
 ---
 
-# Personal Portofolio
+# Personal Portofolio (ID)
